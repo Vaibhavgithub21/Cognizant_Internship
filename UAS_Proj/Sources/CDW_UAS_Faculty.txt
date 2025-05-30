@@ -1,0 +1,51 @@
+FACULTY_CODE,FACULTY_NAME,FACULTY_DESIGNATION,FACULTY_QUALIFICATION
+1,Prabakaran,Associate Professor,B.Tech
+2,Vasanth,Associate Professor,M.Tech
+3,Saravanan,Professor,Ph.D
+4,Anitha,Assistant Professor,M.Sc
+5,Kumar,Professor,Ph.D
+6,Deepa,Assistant Professor,MCA
+7,Rajesh,Associate Professor,M.Tech
+8,Harish,Professor,Ph.D
+9,Ravi,Assistant Professor,M.Sc
+10,Suresh,Associate Professor,B.E
+11,Meena,Professor,Ph.D
+12,Prakash,Assistant Professor,MBA
+13,Karthik,Associate Professor,B.Tech
+14,Saranya,Professor,Ph.D
+15,Mahesh,Assistant Professor,M.Tech
+16,Ganesh,Professor,Ph.D
+17,Pradeep,Associate Professor,BCA
+18,Vignesh,Professor,Ph.D
+19,Sneha,Assistant Professor,M.Com
+20,Naveen,Professor,Ph.D
+21,Deepak,Associate Professor,B.E
+22,Sruthi,Assistant Professor,M.Tech
+23,Lakshmi,Professor,Ph.D
+24,Santhosh,Assistant Professor,M.Sc
+25,Harini,Associate Professor,M.Tech
+26,Koushik,Professor,Ph.D
+27,Manoj,Assistant Professor,MBA
+28,Preethi,Professor,Ph.D
+29,Rajesh,Associate Professor,B.Tech
+30,Ravi,Assistant Professor,MCA
+31,Saravanan,Professor,Ph.D
+32,Kiran,Assistant Professor,M.Sc
+33,Kishore,Associate Professor,M.Tech
+34,Swathi,Professor,Ph.D
+35,Anand,Assistant Professor,M.Com
+36,Aravind,Professor,Ph.D
+37,Sruthi,Associate Professor,BCA
+38,Sundar,Professor,Ph.D
+39,Kavitha,Assistant Professor,M.Tech
+40,Santhosh,Professor,Ph.D
+41,Anjali,Associate Professor,MBA
+42,Santosh,Assistant Professor,M.Sc
+43,Ayesha,Professor,Ph.D
+44,Bhavana,Assistant Professor,M.Tech
+45,Vidya,Associate Professor,B.Tech
+46,Reshma,Professor,Ph.D
+47,Ramesh,Assistant Professor,MCA
+48,Saranya,Professor,Ph.D
+49,Vikram,Associate Professor,M.Tech
+50,Divya,Professor,Ph.D

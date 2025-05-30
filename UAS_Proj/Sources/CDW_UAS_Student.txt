@@ -1,0 +1,51 @@
+FIRST_NAME,MIDDLE_NAME,LAST_NAME,ROLL,STREET_NAME,APT_NO,STUD_CITY,STUD_STATE,STUD_COUNTRY,STUD_ZIP,STUD_PHONE,STUD_EMAIL
+Venkat,Sai Sathvik,kuna,078,Tir Nagar,GSA,Tirupati,AP,India,517501,9876543210,satsus@gmail.com
+Sushmitha,PN,R,019,BLR Nagar,MSR,Bengaluru,KA,India,560045,1234567890,sush123s@gmail.com
+Karthik,,K,076,BZ Street,VIA,Vijayawada,AP,India,504207,1234567889,mah456@gmail.com
+Rohit,Kumar,Singh,045,MGR Road,APT 3,Hyderabad,TS,India,500001,9988776655,rohit@gmail.com
+Meera,Lakshmi,R,032,Anna Salai,APT 5,Chennai,TN,India,600002,9876504321,meera@gmail.com
+Arjun,Pratap,Verma,054,Park Street,APT 7,Kolkata,WB,India,700001,8765432109,arjun@gmail.com
+Divya,,Nair,081,MG Road,APT 9,Mumbai,MH,India,400001,7654321098,divya@gmail.com
+Nitin,Joseph,Mathew,099,Brigade Road,APT 12,Bangalore,KA,India,560025,6543210987,nitin@gmail.com
+Pooja,Anand,Sharma,065,Lajpat Nagar,APT 14,Delhi,DL,India,110024,5432109876,pooja@gmail.com
+Ankit,Vinod,Patel,073,Gandhi Street,APT 16,Ahmedabad,GJ,India,380001,4321098765,ankit@gmail.com
+Neha,,Kapoor,028,Connaught Place,APT 18,Delhi,DL,India,110001,3210987654,neha@gmail.com
+Surya,Raj,M,058,Baner Road,APT 20,Pune,MH,India,411007,2109876543,surya@gmail.com
+Priya,Venkat,Rao,047,Jubilee Hills,APT 22,Hyderabad,TS,India,500033,1098765432,priya@gmail.com
+Rahul,Dev,Sharma,039,Church Street,APT 24,Bangalore,KA,India,560001,1987654321,rahul@gmail.com
+Sneha,Rani,Das,100,Gariahat Road,APT 26,Kolkata,WB,India,700019,2987654321,sneha@gmail.com
+Manoj,Bala,Kumar,024,Vashi Road,APT 28,Navi Mumbai,MH,India,400703,3987654321,manoj@gmail.com
+Harini,,Gopal,011,Marathahalli,APT 30,Bangalore,KA,India,560037,4987654321,harini@gmail.com
+Kiran,Reddy,P,015,RTC X Roads,APT 32,Hyderabad,TS,India,500020,5987654321,kiran@gmail.com
+Vishal,,Rana,053,MG Road,APT 34,Indore,MP,India,452001,6987654321,vishal@gmail.com
+Ayesha,Begum,S,046,Charminar,APT 36,Hyderabad,TS,India,500002,7987654321,ayesha@gmail.com
+Sandeep,,Mishra,012,DLF Phase 1,APT 38,Gurgaon,HR,India,122002,8987654321,sandeep@gmail.com
+Shreya,K,Joshi,029,Navrangpura,APT 40,Ahmedabad,GJ,India,380009,9087654321,shreya@gmail.com
+Varun,Arjun,T,059,Aliganj,APT 42,Lucknow,UP,India,226024,6789054321,varun@gmail.com
+Ishita,Ravi,Desai,082,Shivajinagar,APT 44,Pune,MH,India,411005,5678901234,ishita@gmail.com
+Rahul,,Yadav,090,South Extension,APT 46,Delhi,DL,India,110049,4567890123,rahulydv@gmail.com
+Tanmay,Pratap,Sen,033,Behala,APT 48,Kolkata,WB,India,700034,3456789012,tanmay@gmail.com
+Nidhi,Manish,Gupta,088,JP Nagar,APT 50,Bangalore,KA,India,560078,2345678901,nidhi@gmail.com
+Tarun,,Rajput,061,Miyapur,APT 52,Hyderabad,TS,India,500049,1234567890,tarun@gmail.com
+Lavanya,Satish,R,043,Vijayanagar,APT 54,Mysore,KA,India,570017,7890123456,lavanya@gmail.com
+Bhavana,Anil,Patil,031,Electronic City,APT 56,Bangalore,KA,India,560100,6789012345,bhavana@gmail.com
+Mohit,,Tiwari,077,Noida Sector 15,APT 58,Noida,UP,India,201301,5678901234,mohit@gmail.com
+Yamini,Sanjay,M,066,Ambattur,APT 60,Chennai,TN,India,600053,4567890123,yamini@gmail.com
+Pranav,Arvind,P,098,Nungambakkam,APT 62,Chennai,TN,India,600034,3456789012,pranav@gmail.com
+Keerthi,Ravi,Shankar,016,Malad West,APT 64,Mumbai,MH,India,400064,2345678901,keerthi@gmail.com
+Rohan,Kumar,D,071,Koregaon Park,APT 66,Pune,MH,India,411001,1234567890,rohan@gmail.com
+Varsha,N,Menon,055,Sarjapur Road,APT 68,Bangalore,KA,India,560035,7890123456,varsha@gmail.com
+Chirag,Dev,P,026,Annanagar,APT 70,Chennai,TN,India,600040,6789012345,chirag@gmail.com
+Pallavi,K,Sharma,014,Park Street,APT 72,Kolkata,WB,India,700016,5678901234,pallavi@gmail.com
+Akash,B,,101,Sector 62,APT 74,Noida,UP,India,201309,4567890123,akash@gmail.com
+Reshma,M,Nair,050,Indira Nagar,APT 76,Bangalore,KA,India,560038,3456789012,reshma@gmail.com
+Gaurav,Venkat,R,067,Borivali,APT 78,Mumbai,MH,India,400092,2345678901,gaurav@gmail.com
+Meghana,S,,048,Shanthi Colony,APT 80,Chennai,TN,India,600041,1234567890,meghana@gmail.com
+Shivani,Arun,Kumar,102,MG Road,APT 82,Bangalore,KA,India,560001,1234567899,shivani@gmail.com
+Aditya,Raj,Sharma,083,Brigade Road,APT 84,Mumbai,MH,India,400002,9876543211,aditya@gmail.com
+Praveen,Kishore,Patel,085,Park Street,APT 86,Kolkata,WB,India,700003,8765432108,pavan@gmail.com
+Snehal,Lakshmi,Nair,087,Connaught Place,APT 88,Delhi,DL,India,110002,7654321097,snehal@gmail.com
+Rakesh,Dev,Verma,089,Anna Salai,APT 90,Chennai,TN,India,600003,6543210986,rakesh@gmail.com
+Sonia,Bala,Kumar,091,Vashi Road,APT 92,Navi Mumbai,MH,India,400704,5432109875,sonia@gmail.com
+Karan,Venkat,Reddy,093,Jubilee Hills,APT 94,Hyderabad,TS,India,500034,4321098764,karan@gmail.com
+Aarav,Arjun,Menon,095,Shivajinagar,APT 96,Pune,MH,India,411006,3210987653,aarav@gmail.com

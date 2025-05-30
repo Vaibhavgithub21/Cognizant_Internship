@@ -1,0 +1,53 @@
+COLLEGE_CODE,COLLEGE_NAME,COLLEGE_STREET,COLLEGE_CITY,COLLEGE_STATE,COLLEGE_ZIP,COLLEGE_PHONE 
+1,SRM AP,SRM Nagar,Potheri,AP,603203,9876543210 
+2,SRM RMP,Eswari Nagar,Chennai,TN,603204,1234567890 
+3,SRM AP,AMR,Amaravati,AP,345678,2345678912 
+4,Anna University,Guindy,Chennai,TN,600025,9988776655 
+5,IIT Madras,Sardar Patel Road,Chennai,TN,600036,9871234560 
+6,NIT Trichy,Tanjore Road,Trichy,TN,620015,8765432109 
+7,MIT Chromepet,GST Road,Chennai,TN,600044,7654321098 
+8,PSG Tech,Avinashi Road,Coimbatore,TN,641004,6543210987 
+9,Coimbatore Institute of Technology,CIT Campus,Coimbatore,TN,641014,5432109876 
+10,VIT Vellore,Katpadi,Vellore,TN,632014,4321098765 
+11,VIT Chennai,Kelambakkam,Chennai,TN,603103,3210987654 
+12,Sastra University,Thirumalaisamudram,Thanjavur,TN,613401,2109876543 
+13,Amrita Coimbatore,Ettimadai,Coimbatore,TN,641112,1098765432 
+14,Amrita Bangalore,Kasavanahalli,Bangalore,KA,560035,9876543201 
+15,IIIT Hyderabad,Gachibowli,Hyderabad,TS,500032,8765432101 
+16,Osmania University,Amberpet,Hyderabad,TS,500007,7654321012 
+17,JNTU Hyderabad,Kukatpally,Hyderabad,TS,500085,6543210123 
+18,BITS Pilani,Vidya Vihar,Pilani,RJ,333031,5432101234 
+19,BITS Goa,Zuarinagar,Goa,Go,403726,4321012345 
+20,BITS Hyderabad,Shameerpet,Hyderabad,TS,500078,3210123456 
+21,IIT Bombay,Powai,Mumbai,MH,400076,2101234567 
+22,IIT Delhi,Hauz Khas,New Delhi,DL,110016,1092345678 
+23,NIT Warangal,Hanamkonda,Warangal,TS,506004,9873425610 
+24,IIIT Bangalore,Electronics City,Bangalore,KA,560100,8764215098 
+25,IIIT Allahabad,Jhalwa,Allahabad,UP,211015,7653109827 
+26,NIT Calicut,NIT Campus,Calicut,KL,673601,6542098765 
+27,IIT Kanpur,Kalyanpur,Kanpur,UP,208016,5430987123 
+28,IIT Kharagpur,Kharagpur,Kharagpur,WB,721302,4321987654 
+29,Jadavpur University,Raja S.C. Mallick Road,Kolkata,WB,700032,3217894560 
+30,NIT Durgapur,Mahatma Gandhi Avenue,Durgapur,WB,713209,2109876541 
+31,Delhi University,North Campus,New Delhi,DL,110007,1098765430 
+32,Bangalore University,Mysore Road,Bangalore,KA,560056,9876543109 
+33,Pune University,University Road,Pune,MH,411007,8765432098 
+34,NMIMS Mumbai,Vile Parle,Mumbai,MH,400056,7654320987 
+35,Shiv Nadar University,Tehsil Dadri,Greater Noida,UP,203207,6543219876 
+36,Symbiosis Pune,Lavale,Pune,MH,412115,5432198765 
+37,Christ University,Hosur Road,Bangalore,KA,560029,4321987654 
+38,JNU,New Mehrauli Road,New Delhi,DL,110067,3210987653 
+39,DU South Campus,Benito Juarez Marg,New Delhi,DL,110021,2109876542 
+40,Jamia Millia Islamia,Jamia Nagar,New Delhi,DL,110025,1098765431 
+41,Andhra University,Waltair Junction,Visakhapatnam,AP,530003,9876543120 
+42,University of Hyderabad,Gachibowli,Hyderabad,TS,500046,8765432108 
+43,Lovely Professional University,Jalandhar-Delhi GT Road,Phagwara,PB,144411,7654321087 
+44,Punjab University,Sector 14,Chandigarh,CH,160014,6543210986 
+45,Thapar University,Patiala,Patiala,PB,147004,5432109875 
+46,SRM Haryana,Sonepat,Sonepat,HR,131029,4321098764 
+47,UPES Dehradun,Bidholi,Dehradun,UK,248007,3210987652 
+48,IIITM Gwalior,Morar,Gwalior,MP,474015,2109876540 
+49,Maulana Azad National Institute of Technology,Bhopal,Bhopal,MP,462003,1098765429 
+50,Aligarh Muslim University,AMU Campus,Aligarh,UP,202002,9876543012
+
+
